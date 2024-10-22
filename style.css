@@ -1,0 +1,44 @@
+body {
+    background-color:blanchedalmond;
+    text-align: center;
+}
+
+#main_header {
+    font-family: Geneva;
+    font-size: 50px;
+}
+
+#summary_header {
+    font-family: Geneva;
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+}
+
+#pdfFile {
+    background-color: azure;
+    border: none;
+    border-radius: 10%;
+    padding: 15px 15px;
+    font-size: 20px;
+    font-family: Verdana;
+    position: relative;
+    left:90px;
+}
+
+#summarise_button {
+    background-color:honeydew;
+    border: none;
+    font-size: 30px;
+    font-family: Verdana;
+    border-radius: 10%;
+    position: relative;
+    top: 100px;
+    left:-240px;
+}
+
+#summary {
+    position: relative;
+    top: 100px;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+}
